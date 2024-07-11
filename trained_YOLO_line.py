@@ -28,7 +28,7 @@ count=0
 while True:
     ret,frame = cap.read()
     count += 1
-    if count % 3 != 0:
+    if count % 5 != 0:
         continue
     if not ret:
        break
