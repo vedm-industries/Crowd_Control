@@ -1,8 +1,6 @@
 This code provides a people counting system for video footage or live CCTV input. It tracks people entering and exiting defined regions, logging the results to a text file.  Here's how to use it without needing programming knowledge:
 
-1. Setting Up:
-
-Download the provided code files (including tracker.py if applicable).
+1. Setting Up: Download the provided code files (including tracker.py if applicable).
 Make sure you have Python installed on your computer. Python is a free and popular programming language used for various tasks, including image processing. You can download it from https://www.python.org/downloads/.
 
 2. Configuring the Code: Open the main code file (likely named people_count.py).
