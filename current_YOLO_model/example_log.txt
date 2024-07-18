@@ -1,0 +1,5 @@
+10:32:15: Enter: 2, Exit: 1
+10:33:07: Enter: 1, Exit: 0
+10:34:22: Enter: 0, Exit: 3
+10:35:18: Enter: 4, Exit: 1
+10:36:49: Enter: 2, Exit: 0
