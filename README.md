@@ -8,3 +8,4 @@ I am working on a way to use a YT livestream to feed into the algorithm so that 
 
 You can also use live CCTV camera footage in the algorithm
 
+Refer to the "People Counting with NGI" slideshow for more
