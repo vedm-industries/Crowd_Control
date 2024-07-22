@@ -25,5 +25,3 @@ Additional Notes:
 This is a basic implementation and may require adjustments depending on your specific video/CCTV setup and lighting conditions.
 You MUST unzip/extract the store.zip file prior to running the model if you choose to use an .mp4
 You MUST put the store.mp4, enext model.py, and tracker.py in the same folder prior to running the model
-
-
