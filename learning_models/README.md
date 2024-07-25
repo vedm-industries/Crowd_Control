@@ -14,3 +14,6 @@ Overview of DNNs:
    Pooling Layers: These layers perform downsampling to reduce the dimensionality of the data and introduce a degree of invariance to small shifts or rotations in the images.
    More Complex Architectures: Due to the increased complexity of CIFAR-10, deeper networks with more hidden layers and neurons might be necessary for better performance.
 5. Training and Evaluating the DNN: The training process for CIFAR-10 follows similar principles to MNIST, but training time may increase due to the larger dataset and more complex architecture. Regularization techniques like dropout can be helpful to prevent overfitting and improve generalization.
+
+
+NOTE: These are all models I used to learn about and initially experiment with deep learning -- they will not have high accuracy scores and may not have every file in the directory to run. Please contact me if seriously interested in any of the models in this folder. 
